@@ -12,3 +12,6 @@ hello
 23307add
 
 mastar update
+
+
+10000
