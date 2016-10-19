@@ -13,7 +13,6 @@
 
 mastar update
 
-<<<<<<< HEAD
 23010
 
 10006
@@ -24,4 +23,6 @@ mastar update
 
 10003-1
 10003-2
->>>>>>> refs/remotes/origin/master
+
+
+10007
