@@ -13,4 +13,5 @@ hello
 
 mastar update
 
+10000
 99999
