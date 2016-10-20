@@ -34,3 +34,5 @@ mastar update
 
 9001
 9002
+
+masterupdate
